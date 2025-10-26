@@ -1,0 +1,24 @@
+Slide 7:
+Ecosystem and popular libraries:
+Python Ecosystem - the complete set of tools, libraries, frameworks, and resources that allow developers to efficiently solve a wide range of tasks.
+Python is well-known for its rich ecosystem, which includes:
+Scientific and Numerical Computing:
+- NumPy - working with multidimensional arrays and mathematical operations.
+- Pandas - data manipulation and analysis (tables, DataFrame).
+- SciPy - scientific and engineering computations, statistics, integrals.
+Data Visualization:
+- Matplotlib - basic plots and charts.
+- Seaborn - enhanced visualization with attractive design.
+- Plotly - interactive graphs and dashboards.
+Machine Learning and Artificial Intelligence:
+- Scikit-learn - classical machine learning algorithms.
+- TensorFlow/Keras - deep learning and neural networks.
+- PyTorch - another popular framework for neural networks.
+Web Development:
+- Django - full-featured web framework.
+- Flask - lightweight microframework for web applications.
+Automation and Utilities:
+- Requests - working with HTTP requests.
+- BeautifulSoup/Scrapy - web scraping and parsing.
+- Open CV - image and video processing.
+
