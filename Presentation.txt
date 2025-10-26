@@ -22,3 +22,31 @@ Automation and Utilities:
 - BeautifulSoup/Scrapy - web scraping and parsing.
 - Open CV - image and video processing.
 
+Slide 8:
+Languages comparison:
+Main Focus:
+Python: Quick development, Data Science, Web Development.
+Jave: Enterprise Systems, Mobile (Android).
+C++: System Progrannimg, Games, High Performance.
+JavaScript: Web Development (Frontend, Backend), Interactivity.
+Sintax:
+Python: Simple, readable, uses indentation.
+Java: Verbose, requires semicolons and curly braces.
+C++: Complex, powerful, requires manual memory management.
+JavaScript: Similar to C-style languages.
+Performance: 
+Python: Slower (Interpreted).
+Java: Fast (Compiled to bytecode), High Performance.
+C++: Fastest (Compiled to machine code).
+JavaScript: Fast (due to JIT compilation).
+Typing: 
+Python: Dynamic (Data type determined at runtime).
+Java: Static (Data type determined at compile time).
+C++: Static.
+JavaScript: Dynamic.
+Ecosystem:
+Python: Vast number of libraries (NumPy, Pandas, Django, Flask).
+Java: Mature, large ecosystem (Spring, Maven).
+C++: Many low-level lebraries.
+JavaScript: Frameworks (React, Angular, Vue.js, Node).
+
