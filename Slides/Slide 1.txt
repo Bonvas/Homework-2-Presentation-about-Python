@@ -1,0 +1,30 @@
+Python
+
+"Write less, do more."
+
+
+created: Team #2 
+
+Bondarevskyi V.
+Bodnar A.
+Zhokh I.
+Danylyshyn Y.
+
+
+
+
+Slide #2
+
+
+Context
+1) WHAT IS PYTHON
+2) Key Advantages
+3) AREAS OF PYTHON APPLICATION
+4) CORE SYNTAX CONCEPTS
+5) ECOSYSTEM & POPULAR LIBRARIES
+6) LANGUAGES COMPARISON 
+7) Conclusions and Future 
+
+
+
+Slide #2
