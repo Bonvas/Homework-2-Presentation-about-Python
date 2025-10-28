@@ -1,0 +1,24 @@
+Slide #5
+
+                                       CORE SYNTAX CONCEPTS
+
+
+
+      Python is a language for communicating with a computer. Like any language, Python has rules for constructing “sentences” so that the interpreter program can understand the commands and execute them. These rules are called syntax.
+
+
+    Key Principles:
+
+- Indentation (Structural Indentation) - Defines code blocks instead of using {}.
+- Comments - Explain the code and are ignored by the interpreter ( # , “””…”””).
+- Variables & Data Types - The type of a variable is determined automatically (name = “Ihor”)
+- Conditional Statements - Allow executing code based on conditions (if , elif , else).
+- Loops - Execute code blocks repeatedly (for , while).
+- Functions - Organize code into reusable blocks  (def greet(name): ). 
+- Data Collections: 
+    list - ordered, mutable collection; 
+    tuple - ordered, immutable collection; 
+    set- unordered collection of unique elements; 
+    dict - dictionary storing key-value pairs.
+
+   Modularity & Imports - Allows importing ready-made libraries to extend functionality (import math).
