@@ -14,9 +14,8 @@ Danylyshyn Y.
 
 
 Slide #2
+                                        CONTENTS:
 
-
-Context
 1) WHAT IS PYTHON
 2) Key Advantages
 3) AREAS OF PYTHON APPLICATION
@@ -27,14 +26,9 @@ Context
 
 
 
-
-
-
 Slide #3
 
-WHAT IS PYTHON
-
- 
+                                      WHAT IS PYTHON.
 
      DEFENITION         HISTORY         PHILOSOPHY
 
@@ -61,7 +55,7 @@ WHAT IS PYTHON
 
 Slide #4
 
-KEY ADVANTAGES
+                                     KEY ADVANTAGES.
 
     Simplicity and Readability:  
 
@@ -83,14 +77,20 @@ KEY ADVANTAGES
   Can be used across various domains: web development, data science, machine learning, scripting, and scientific computing.
 
 
-
-
-
 Slide #5
+                               AREAS OF PYTHON APPLICATION.
 
+Web Development: Used to build robust web applications and APIs. Key frameworks include Django (for large, complex projects) and Flask (for smaller, lightweight projects).
+
+Data Analysis & Machine Learning (ML): Python is the indestry standard for science. Essential libraries include Pandas (data manipulation), NumPy (numerical operations), Scikit-learn (ML algorithms), and TensorFlow (deep learning).
+
+Automation and Scripting: Ideal for automationg repetitive tasks, system administration, and creating simple command-line tools.
+
+Scientific Computing: Used in fields like physics, biology, and chemistry for complex numerical simulations and data processing.
+
+
+Slide #6
                                        CORE SYNTAX CONCEPTS
-
-
 
       Python is a language for communicating with a computer. Like any language, Python has rules for constructing “sentences” so that the interpreter program can understand the commands and execute them. These rules are called syntax.
 
@@ -114,10 +114,9 @@ Slide #5
 
 
 
+Slide #7
+                          ECOSYSTEM & POPULAR LIBRARIES.
 
-
-Slide 7:
-Ecosystem and popular libraries:
 Python Ecosystem - the complete set of tools, libraries, frameworks, and resources that allow developers to efficiently solve a wide range of tasks.
 Python is well-known for its rich ecosystem, which includes:
 Scientific and Numerical Computing:
@@ -140,8 +139,9 @@ Automation and Utilities:
 - BeautifulSoup/Scrapy - web scraping and parsing.
 - Open CV - image and video processing.
 
-Slide 8:
-Languages comparison:
+Slide #8
+                                  LANGUAGES COMPARISON.
+
 Main Focus:
 Python: Quick development, Data Science, Web Development.
 Jave: Enterprise Systems, Mobile (Android).
@@ -168,3 +168,33 @@ Java: Mature, large ecosystem (Spring, Maven).
 C++: Many low-level lebraries.
 JavaScript: Frameworks (React, Angular, Vue.js, Node).
 
+
+Slide #9
+                                   CONCLUSIONS AND FUTURE.
+
+Why Python is the Top Choice Today:
+Simplicity and Development Speed.
+
+- Python allows for high iteration speed due to its clean and readable syntax.
+- Simple syntax means faster project delivery.
+
+Versatility (Universal Use):
+- It is perfect for web development, automation, and system administration.
+- Python works for many different tasks.
+
+Liadership in Data Science:
+- Python is the de facto standard for Machine Learning (ML) and Artificial Intelligence (AI).
+- This is thanks to its huge ecosystem of libraries (NumPy, Pandas, TensorFlow, Pytorch).
+
+The Future: Trends and Directions for Python.
+Continued ML/AI Dominance:
+- It will remain the primary language in this fast-growing field, supported by strong frameworks and an active community.
+
+Performance Improvement:
+- The development of optimizers (like Cinder from Instagram) and tools like Mojo (an AI-focused language compatible with Python) shows we are actively working to overcome performance limits.
+
+Asynchronous Programming:
+- livraries like asyncio will strengthen Python`s role in high-performance network applications and microservices.
+
+Typing:
+- The growing use of type hints makes Python code more reliable and easier to maintain in large projects. 
