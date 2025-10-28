@@ -1,24 +1,11 @@
-Slide #5
 
-                                       CORE SYNTAX CONCEPTS
+                                AREAS OF PYTHON APPLICATION.
 
+Web Development: Used to build robust web applications and APIs. Key frameworks include Django (for large, complex projects) and Flask (for smaller, lightweight projects).
 
+Data Analysis & Machine Learning (ML): Python is the indestry standard for science. Essential libraries include Pandas (data manipulation), NumPy (numerical operations), Scikit-learn (ML algorithms), and TensorFlow (deep learning).
 
-      Python is a language for communicating with a computer. Like any language, Python has rules for constructing “sentences” so that the interpreter program can understand the commands and execute them. These rules are called syntax.
+Automation and Scripting: Ideal for automationg repetitive tasks, system administration, and creating simple command-line tools.
 
+Scientific Computing: Used in fields like physics, biology, and chemistry for complex numerical simulations and data processing.
 
-    Key Principles:
-
-- Indentation (Structural Indentation) - Defines code blocks instead of using {}.
-- Comments - Explain the code and are ignored by the interpreter ( # , “””…”””).
-- Variables & Data Types - The type of a variable is determined automatically (name = “Ihor”)
-- Conditional Statements - Allow executing code based on conditions (if , elif , else).
-- Loops - Execute code blocks repeatedly (for , while).
-- Functions - Organize code into reusable blocks  (def greet(name): ). 
-- Data Collections: 
-    list - ordered, mutable collection; 
-    tuple - ordered, immutable collection; 
-    set- unordered collection of unique elements; 
-    dict - dictionary storing key-value pairs.
-
-   Modularity & Imports - Allows importing ready-made libraries to extend functionality (import math).
