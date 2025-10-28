@@ -30,7 +30,7 @@ Slide #3
 
                                       WHAT IS PYTHON.
 
-     DEFENITION         HISTORY         PHILOSOPHY
+                       DEFENITION         HISTORY         PHILOSOPHY
 
 
    Python is a high-level programming language creates by Guido van Rossum and first released in 1991.
@@ -77,6 +77,8 @@ Slide #4
   Can be used across various domains: web development, data science, machine learning, scripting, and scientific computing.
 
 
+
+
 Slide #5
                                AREAS OF PYTHON APPLICATION.
 
@@ -87,6 +89,9 @@ Data Analysis & Machine Learning (ML): Python is the indestry standard for scien
 Automation and Scripting: Ideal for automationg repetitive tasks, system administration, and creating simple command-line tools.
 
 Scientific Computing: Used in fields like physics, biology, and chemistry for complex numerical simulations and data processing.
+
+
+
 
 
 Slide #6
@@ -139,6 +144,10 @@ Automation and Utilities:
 - BeautifulSoup/Scrapy - web scraping and parsing.
 - Open CV - image and video processing.
 
+
+
+
+
 Slide #8
                                   LANGUAGES COMPARISON.
 
@@ -167,6 +176,8 @@ Python: Vast number of libraries (NumPy, Pandas, Django, Flask).
 Java: Mature, large ecosystem (Spring, Maven).
 C++: Many low-level lebraries.
 JavaScript: Frameworks (React, Angular, Vue.js, Node).
+
+
 
 
 Slide #9
