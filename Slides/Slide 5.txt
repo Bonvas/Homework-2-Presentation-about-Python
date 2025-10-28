@@ -1,5 +1,5 @@
 
-                                AREAS OF PYTHON APPLICATION.
+                                              AREAS OF PYTHON APPLICATION.
 
 Web Development: Used to build robust web applications and APIs. Key frameworks include Django (for large, complex projects) and Flask (for smaller, lightweight projects).
 
